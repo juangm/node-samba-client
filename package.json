@@ -8,6 +8,9 @@
     "type": "git",
     "url": "https://github.com/juangm/node-samba-client.git"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "keywords": [
     "samba",
     "smb",

@@ -1,6 +1,7 @@
 # Node-Samba-Client
 
 [![npm version](https://badge.fury.io/js/%40juangm%2Fsamba-client.svg)](https://badge.fury.io/js/%40juangm%2Fsamba-client)
+[![Known Vulnerabilities](https://snyk.io/test/npm/@juangm/samba-client/badge.svg)](https://snyk.io/test/npm/@juangm/samba-client)
 
 ## Overview
 
@@ -10,7 +11,7 @@
 
 - Requires Node.js 10+
 - Smbclient must be installed.
-- This can be installed on Ubuntu with `sudo apt install smbclient`.
+- This can be installed on Ubuntu with `apt install smbclient`.
 
 ## Installation
 
