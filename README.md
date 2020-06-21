@@ -39,3 +39,9 @@ Just run >>> `npm install @juangm/samba-client`
     // get a file
     await client.getFile('someRemotePath/file', 'destinationFolder/name');
 ```
+
+## Future Plans
+
+- [ ] Add support for Mac using `smbutil`
+- [ ] Implement tests to check basic functionality
+- [ ] Create CI with github actions
